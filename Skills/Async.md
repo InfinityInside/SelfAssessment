@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 
-  - try..catch 👂
+  - Event loop  👂
+  - try..catch 🖐️
   - Non-blocking
-  - Async I/O
+  - Async I/O 👂
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -19,14 +19,14 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread 👂
+  - Process 👂
 - Async contracts
   - Callbacks 👂
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 👂
+  - Async/await 🖐️
   - Future
   - Deferred
   - Sync generator
@@ -38,7 +38,7 @@
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware
+  - Middleware  👂
   - Locks
 - Async adapters and utils
   - callbackify
