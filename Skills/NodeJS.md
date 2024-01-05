@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules 👂
+  - Dependencies: package.json and package lock 👂
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments 👂
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -86,7 +86,7 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S) 👂
   - TCP/SSL
   - UDP
   - TLS
@@ -94,9 +94,9 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST 🖐️
   - RPC
-  - Routing
+  - Routing 🖐️
   - DoS
   - DDoS
   - XSS
@@ -105,7 +105,7 @@
   - DNS
   - Fetch API
   - IncomingMessage
-  - SQL injection
+  - SQL injection 👂
   - noDelay
   - keep-alive
   - ALPN
@@ -116,14 +116,14 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing 👂
   - CI/CD
-  - Readable
+  - Readable 
   - Writable
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console 🖐️
   - Inspector
   - Reliability
   - Quality
@@ -131,15 +131,15 @@
   - Flexibility
 - Data access
   - Data access layer
-  - Repository
+  - Repository 🖐️
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error 🖐️
   - error.cause
-  - error.code
-  - error.message
+  - error.code 🖐️
+  - error.message 🖐️
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
