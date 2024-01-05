@@ -1,47 +1,47 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value 🖐️
+  - identifier 🖐️
+  - variable 🖐️
+  - constant 🖐️
+  - scalar 🖐️
+  - literal 🖐️
+  - expression 🖐️
   - heap
-  - function
-  - procedure
-  - method
-  - class
+  - function 🖐️
+  - procedure 🖐️
+  - method 🖐️
+  - class 🖐️
   - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
+  - event 🖐️
+  - type 🖐️
+  - primitive types 🖐️
+  - reference types 🖐️
   - flag
   - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
+  - code block 🖐️
+  - conditions 🖐️
+  - loops 🖐️
+  - assignment 🖐️
+  - regular expression 🖐️
+  - interface  👂
   - contract
-  - module
+  - module 👂
   - call stack
 - Functions
-  - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
+  - signature 🖐️
+  - argument 🖐️
+  - parameter 🖐️
+  - pure function 🖐️
+  - lambda expression 👂
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion
-  - callback
+  - recursion 👂
+  - callback 👂
   - listener
   - compose
   - pipe
@@ -53,22 +53,22 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
+  - array 🖐️
+  - structure 🖐️
+  - record 
+  - enum 🖐️
+  - instance 🖐️ 
+  - object 🖐️
+  - class 🖐️
   - collection
   - set
-  - hash table
+  - hash table 👂
   - linked list
   - doubly list
   - unrolled list
   - circular list
   - queue
-  - stack
+  - stack 👂
   - deque
   - tree
   - graph
@@ -76,19 +76,19 @@
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing 👂
 - Process & style
-  - compiler
+  - compiler 👂
   - transpiler
   - linter
   - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
+  - debugger 👂
+  - garbage collection 🖐️
+  - refactoring 👂
+  - code review 👂
   - antipatterns
   - paradigm
-  - algorithm
+  - algorithm 🖐️
   - magic numbers
   - hardcode
   - complexity
@@ -97,9 +97,9 @@
   - silver bullet
   - not invented here
   - dead code
-  - unreachable code
-  - duplicate code
-  - exception
+  - unreachable code 🖐️
+  - duplicate code 🖐️
+  - exception 🖐️
   - return early
   - unittest
   - git

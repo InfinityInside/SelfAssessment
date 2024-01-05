@@ -1,11 +1,11 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
+  - Object 🖐️
+  - this 🖐️
   - arrow function
   - async function
-  - call
+  - call 
   - bind
   - apply
   - instanceof
@@ -23,57 +23,57 @@
   - global
   - globalThis
   - window
-  - getters and setters
+  - getters and setters 🖐️
   - __proto__
   - prototype
-  - equality operators
-  - logical operators
+  - equality operators 🖐️
+  - logical operators 🖐️
   - bitwise operators
-  - ternary operator
-  - void
+  - ternary operator 
+  - void 🖐️
   - yield
   - await
   - template literal
   - strict mode
   - delete
-  - in
-  - super
+  - in 🖐️
+  - super 🖐️
   - Symbol
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
+  - if 🖐️
+  - while 🖐️
+  - do..while 🖐️
+  - for 🖐️
   - for..in
   - for..of
   - for await
-  - throw
-  - break
-  - continue
+  - throw 
+  - break 🖐️
+  - continue 🖐️
   - import
   - export
   - label
-  - try..catch
-  - switch
-  - class
+  - try..catch 🖐️
+  - switch 🖐️
+  - class 🖐️
   - new Error
   - with
 - Functions
-  - function declaration
-  - function expression
-  - return
+  - function declaration 🖐️
+  - function expression 
+  - return 🖐️
   - default parameters
   - functional object
 - Data structures
-  - Array
+  - Array 🖐️
   - mixin
   - extend
   - typed arrays
   - Map
   - Set
-  - undefined
-  - null
+  - undefined 🖐️
+  - null 🖐️
   - Proxy
   - weak collections
   - timers
