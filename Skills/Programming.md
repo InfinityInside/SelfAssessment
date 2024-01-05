@@ -1,50 +1,50 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value 🖐️
-  - identifier 🖐️
-  - variable 🖐️
-  - constant 🖐️
-  - scalar 🖐️
-  - literal 🖐️
-  - expression 🖐️
+  - value 🙋
+  - identifier 🙋
+  - variable 🙋
+  - constant 🙋
+  - scalar 🙋
+  - literal 🙋
+  - expression 🙋
   - heap
-  - function 🖐️
-  - procedure 🖐️
-  - method 🖐️
-  - class 🖐️
+  - function 🙋
+  - procedure 🙋
+  - method 🙋
+  - class 🙋
   - prototype
   - event 🖐️
-  - type 🖐️
+  - type 🙋
   - primitive types 🖐️
   - reference types 🖐️
   - flag
   - lexical scope
-  - code block 🖐️
-  - conditions 🖐️
-  - loops 🖐️
-  - assignment 🖐️
+  - code block 🙋
+  - conditions 🙋
+  - loops 🙋
+  - assignment 🙋
   - regular expression 🖐️
-  - interface  👂
+  - interface 🎓
   - contract
-  - module 👂
+  - module 🖐️
   - call stack
 - Functions
   - signature 🖐️
   - argument 🖐️
   - parameter 🖐️
   - pure function 🖐️
-  - lambda expression 👂
+  - lambda expression 🖐️
   - side effects
   - closure
   - partial application
   - curry
   - higher order
-  - recursion 👂
-  - callback 👂
+  - recursion 🖐️
+  - callback 🖐️
   - listener
   - compose
-  - pipe
+  - pipe  🖐️
   - memoize
   - wrapper
   - functor
@@ -61,7 +61,7 @@
   - object 🖐️
   - class 🖐️
   - collection
-  - set
+  - set 🖐️
   - hash table 👂
   - linked list
   - doubly list
@@ -84,7 +84,7 @@
   - polyfill
   - debugger 👂
   - garbage collection 🖐️
-  - refactoring 👂
+  - refactoring 🖐️
   - code review 👂
   - antipatterns
   - paradigm
@@ -100,7 +100,7 @@
   - unreachable code 🖐️
   - duplicate code 🖐️
   - exception 🖐️
-  - return early
+  - return early 🖐️
   - unittest
-  - git
-  - github
+  - git 🖐️
+  - github 🖐️

@@ -1,11 +1,11 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming 👂
   - Imperative programming
-  - Structured programming
+  - Structured programming 👂
   - Non-structured programming
-  - Functional programming
+  - Functional programming 👂
   - Prototype-based programming
   - Object-oriented programming 🖐️ 
   - Object-based programming
@@ -25,7 +25,7 @@
   - new 🖐️
   - Static method 🖐️
   - Method 🖐️
-  - Async method
+  - Async method 
   - Getters, Setters 🖐️
   - Public fields 🖐️
   - Private fields 🖐️
@@ -58,7 +58,7 @@
   - Builder
   - Prototype
   - Composite
-  - Decorator
+  - Decorator 🖐️
   - Flyweight
   - Mediator
   - Memento
