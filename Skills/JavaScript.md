@@ -3,21 +3,21 @@
 - Language
   - Object 🖐️
   - this 🖐️
-  - arrow function
-  - async function
+  - arrow function 🖐️
+  - async function 🖐️
   - call 
   - bind
   - apply
   - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
+  - ...spread 🖐️
+  - ...rest 🖐️
+  - typeof 🖐️
+  - destructuring 🖐️
+  - generator 
   - iterator
   - async generator
   - async iterator
-  - chaining
+  - chaining 👂
   - optional chaining
   - IIFE
   - global
@@ -29,12 +29,12 @@
   - equality operators 🖐️
   - logical operators 🖐️
   - bitwise operators
-  - ternary operator 
+  - ternary operator 🖐️
   - void 🖐️
   - yield
-  - await
+  - await 🖐️
   - template literal
-  - strict mode
+  - strict mode 🖐️
   - delete
   - in 🖐️
   - super 🖐️
@@ -45,45 +45,45 @@
   - while 🖐️
   - do..while 🖐️
   - for 🖐️
-  - for..in
-  - for..of
+  - for..in 🖐️
+  - for..of 🖐️
   - for await
-  - throw 
+  - throw 🖐️
   - break 🖐️
   - continue 🖐️
-  - import
-  - export
+  - import 🖐️
+  - export 🖐️
   - label
   - try..catch 🖐️
   - switch 🖐️
   - class 🖐️
-  - new Error
+  - new Error 🖐️
   - with
 - Functions
   - function declaration 🖐️
-  - function expression 
+  - function expression  🖐️
   - return 🖐️
-  - default parameters
+  - default parameters 🖐️
   - functional object
 - Data structures
   - Array 🖐️
   - mixin
-  - extend
-  - typed arrays
-  - Map
-  - Set
+  - extend 🖐️
+  - typed arrays 👂
+  - Map 🎓
+  - Set 🎓
   - undefined 🖐️
   - null 🖐️
   - Proxy
-  - weak collections
+  - weak collections 👂
   - timers
   - EventEmitter
   - RegExp
-  - Date
-  - BigInt
+  - Date 🖐️
+  - BigInt 👂
 - Infrastructure
   - V8
-  - Node.js
-  - npm
-  - prettier
+  - Node.js  🖐️
+  - npm 🖐️
+  - prettier 🖐️
   - MDN
