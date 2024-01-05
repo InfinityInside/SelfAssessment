@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
+  - Event loop 
+  - try..catch 👂
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -22,7 +22,7 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks 👂
   - Callback-last-error-first
   - Thenable
   - Promise
