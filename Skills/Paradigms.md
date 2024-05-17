@@ -1,23 +1,23 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 👂
-  - Imperative programming
-  - Structured programming 👂
-  - Non-structured programming
+  - Procedural programming 🖐️ used
+  - Imperative programming 🖐️ used
+  - Structured programming 🖐️ used
+  - Non-structured programming 🖐️ used
   - Functional programming 👂
   - Prototype-based programming
   - Object-oriented programming 🖐️ 
-  - Object-based programming
-  - Generic programming
+  - Object-based programming 👂 heard
+  - Generic programming 👂 heard
   - Concurrent computing
-  - Asyncronous programming 👂
+  - Asyncronous programming 🖐️ used
   - Parallel programming
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming 🖐️ used
   - Metaprogramming
   - Actor model
 - OOP basics
@@ -29,7 +29,7 @@
   - Getters, Setters 🖐️
   - Public fields 🖐️
   - Private fields 🖐️
-  - Field declarations
+  - Field declarations 🖐️ used
   - Inheritance 🖐️
   - Parent class 🖐️
   - Polymorphism 👂
