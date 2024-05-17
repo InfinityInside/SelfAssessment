@@ -13,7 +13,7 @@
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  - node:module
+  - node:module 👂 heard
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
@@ -27,7 +27,7 @@
   - Framework agnostic approach
 - Environment
   - Command line arguments 👂
-  - Node.js CLI
+  - Node.js CLI 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -47,7 +47,7 @@
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
-  - Node.js single executable
+  - Node.js single executable 👂 heard
   - Stream back pressure
   - SharedArrayBuffer
   - node:worker_threads
@@ -88,7 +88,7 @@
   - Endpoint throttling
   - HTTP(S) 👂
   - TCP/SSL
-  - UDP
+  - UDP 🖐️ used
   - TLS
   - Websocket
   - SSE
@@ -102,8 +102,8 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
+  - DNS 👂 heard
+  - Fetch API 👂 heard
   - IncomingMessage
   - SQL injection 👂
   - noDelay
@@ -122,7 +122,7 @@
   - Writable
   - Transform
   - back pressure
-  - Buffer
+  - Buffer 👂 heard
   - Console 🖐️
   - Inspector
   - Reliability
@@ -130,7 +130,7 @@
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
+  - Data access layer 👂 heard
   - Repository 🖐️
   - Active record
   - Query builder
@@ -145,7 +145,7 @@
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools 🖐️ used
   - Flame graph
   - Memory leaks
   - Resource leaks
