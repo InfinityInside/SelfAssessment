@@ -5,10 +5,10 @@
   - this 🖐️
   - arrow function 🖐️
   - async function 🖐️
-  - call 
+  - call 🎓 known
   - bind
-  - apply
-  - instanceof
+  - apply 🎓 known
+  - instanceof 🎓 known
   - ...spread 🖐️
   - ...rest 🖐️
   - typeof 🖐️
@@ -19,10 +19,10 @@
   - async iterator
   - chaining 👂
   - optional chaining
-  - IIFE
-  - global
+  - IIFE 🖐️ used
+  - global 🎓 known
   - globalThis
-  - window
+  - window 🎓 known
   - getters and setters 🖐️
   - __proto__
   - prototype
@@ -35,10 +35,10 @@
   - await 🖐️
   - template literal
   - strict mode 🖐️
-  - delete
+  - delete 🖐️ used
   - in 🖐️
   - super 🖐️
-  - Symbol
+  - Symbol 👂 heard
   - Reflect
 - Statements
   - if 🖐️
@@ -64,20 +64,20 @@
   - function expression  🖐️
   - return 🖐️
   - default parameters 🖐️
-  - functional object
+  - functional object 🖐️ used
 - Data structures
   - Array 🖐️
   - mixin
   - extend 🖐️
   - typed arrays 👂
-  - Map 🎓
-  - Set 🎓
+  - Map 🖐️ used
+  - Set 🖐️ used
   - undefined 🖐️
   - null 🖐️
   - Proxy
   - weak collections 👂
   - timers
-  - EventEmitter
+  - EventEmitter 👂 heard
   - RegExp
   - Date 🖐️
   - BigInt 👂
