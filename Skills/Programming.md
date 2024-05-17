@@ -42,11 +42,11 @@
   - higher order
   - recursion 🖐️
   - callback 🖐️
-  - listener
+  - listener 🖐️ used
   - compose
   - pipe  🖐️
   - memoize
-  - wrapper
+  - wrapper 🖐️ used
   - functor
   - monad
   - monoid
@@ -60,47 +60,47 @@
   - instance 🖐️ 
   - object 🖐️
   - class 🖐️
-  - collection
+  - collection 🖐️ used
   - set 🖐️
   - hash table 👂
-  - linked list
+  - linked list 🖐️ used
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack 👂
-  - deque
-  - tree
-  - graph
+  - queue 🖐️ used
+  - stack 🖐️ used
+  - deque 🖐️ used
+  - tree 🖐️ used
+  - graph 🖐️ used
   - iterator
   - mutable state
   - immutable state
   - serialization
   - string parsing 👂
 - Process & style
-  - compiler 👂
-  - transpiler
-  - linter
+  - compiler 🖐️ used
+  - transpiler 🖐️ used
+  - linter 🖐️ used
   - polyfill
-  - debugger 👂
+  - debugger 🖐️ used
   - garbage collection 🖐️
   - refactoring 🖐️
   - code review 👂
-  - antipatterns
-  - paradigm
+  - antipatterns 🖐️ used
+  - paradigm 🖐️ used
   - algorithm 🖐️
-  - magic numbers
-  - hardcode
-  - complexity
+  - magic numbers 🖐️ used
+  - hardcode 🖐️ used
+  - complexity 🎓 known
   - decomposition
   - spaghetti
   - silver bullet
-  - not invented here
-  - dead code
+  - not invented here 🎓 known
+  - dead code 🎓 known
   - unreachable code 🖐️
   - duplicate code 🖐️
   - exception 🖐️
   - return early 🖐️
-  - unittest
+  - unittest 👂 heard
   - git 🖐️
   - github 🖐️
