@@ -32,46 +32,45 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-
-  - Value u
-  - Identifier u
-  - Variable u
-  - Constant u
-  - Scalar u
-  - Literal u
-  - Expression u
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 🖐️ used
+  - Literal: 🖐️ used
+  - Expression: 🖐️ used
   - Heap
-  - Function u
+  - Function: 🖐️ used
   - Procedure
-  - Method u
-  - Class u
+  - Method: 🖐️ used
+  - Class: 🖐️ used
   - Prototype
   - Event
-  - Type u
+  - Type: 🖐️ used
   - Flag
-  - Lexical scope u
-  - Code block u
-  - Conditions u
-  - Loops u
-  - Assignment u
-  - Regular expression u
-  - Interface u
+  - Lexical scope: 🖐️ used
+  - Code block: 🖐️ used
+  - Conditions: 🖐️ used
+  - Loops: 🖐️ used
+  - Assignment: 🖐️ used
+  - Regular expression: 🖐️ used
+  - Interface: 🖐️ used
   - Namespaces
   - Call stack
-  - Naming conventions u
-  - Coding conventions u
-  - Camel case u
-  - Snake case u
+  - Naming conventions: 🖐️ used
+  - Coding conventions: 🖐️ used
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
   - Kebab case
-  - Trailing commas u
-  - Return early u
+  - Trailing commas: 🖐️ used
+  - Return early: 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types u
-  - Reference types u
+  - Primitive types: 🖐️ used
+  - Reference types: 🖐️ used
   - Type systems
-  - Strong typing u
-  - Weak typing u
+  - Strong typing: 🖐️ used
+  - Weak typing: 🖐️ used
   - Duck typing
   - Static typing
   - Dynamic typing
@@ -83,21 +82,21 @@
   - Contravariance
 - Functions
   - Signature
-  - Argument u
-  - Parameter u
+  - Argument: 🖐️ used
+  - Parameter: 🖐️ used
   - Pure function
-  - Lambda expression u
+  - Lambda expression: 🖐️ used
   - Side effects
   - Closure
   - Partial application
   - Currying
   - Higher order
-  - Recursion u
+  - Recursion: 🖐️ used
   - Tail call optimisation
-  - Callback u
+  - Callback: 🖐️ used
   - Listener
   - Composition
-  - Pipe u
+  - Pipe: 🖐️ used
   - Memoize
   - Wrapper
   - Functor
@@ -106,14 +105,14 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array u
-  - Structure u
-  - Record 
+  - Array: 🖐️ used
+  - Structure: 🖐️ used
+  - Record
   - Enum
   - Instance
-  - Object u
-  - Collection 
-  - Set u
+  - Object: 🖐️ used
+  - Collection
+  - Set: 🖐️ used
   - Hash table
   - Linked list
   - Doubly list
@@ -129,7 +128,7 @@
   - Immutable state
   - Serialization
   - String parsing
-  - JSON k
+  - JSON: 🎓 known
   - JSON5
   - YAML
 - Networking
@@ -160,13 +159,13 @@
   - Containerization
   - Debugger
   - Tracing
-  - Garbage collection k
-  - Refactoring k
-  - Code review k
+  - Garbage collection: 🎓 known
+  - Refactoring: 🎓 known
+  - Code review: 🎓 known
   - Exception
   - Unittesting
-  - git k
-  - Github k
+  - git: 🎓 known
+  - Github: 🎓 known
   - Docker
   - Kubernetes
   - GCC

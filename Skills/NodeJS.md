@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` h
-  - Files `package.json`, `package-lock.json` h
+  - Dependencies: `npm`, `node_modules`: 👂 heard
+  - Files `package.json`, `package-lock.json`: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,7 +26,7 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments 👂
+  - Command line arguments: 👂 heard
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -67,7 +67,7 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S) k
+  - HTTP(S): 🎓 known
   - TCP/SSL
   - UDP
   - TLS
@@ -75,16 +75,16 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST 🖐️
+  - REST: 🖐️ used
   - RPC
-  - Routing 🖐️
+  - Routing: 🖐️ used
   - DoS
   - DDoS
   - XSS
   - Path traversal
   - CSRF
   - DNS
-  - SQL injection h
+  - SQL injection: 👂 heard
   - noDelay
   - keep-alive
   - IP sticky sessions
@@ -92,28 +92,28 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing 👂
+  - Testing: 👂 heard
   - CI/CD
-  - Readable 
+  - Readable
   - Writable
   - Transform
   - Back pressure
   - Buffer
-  - Console 🖐️
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer
-  - Repository 🖐️
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error` u
+  - `Error`: 🖐️ used
   - `error.cause`
-  - `error.code` u
-  - `error.message` u
+  - `error.code`: 🖐️ used
+  - `error.message`: 🖐️ used
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
