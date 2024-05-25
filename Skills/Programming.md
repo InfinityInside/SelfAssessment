@@ -4,33 +4,33 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm u
+  - Syntax u
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Abstraction h
+  - Paradigm u
+  - Programm u
+  - Programming paradigm u
+  - Programming language u
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module u
+  - Library u
+  - Package u
   - Component
-  - Framework
+  - Framework u
   - Platform
-  - Source code
+  - Source code k
   - Object code
-  - Machine code
+  - Machine code h
   - Microcode
-  - Software engineering
+  - Software engineering u
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
-  - KISS principle
+  - KISS principle k
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -45,7 +45,7 @@
   - Method: 🖐️ used
   - Class: 🖐️ used
   - Prototype
-  - Event
+  - Event u
   - Type: 🖐️ used
   - Flag
   - Lexical scope: 🖐️ used
@@ -98,7 +98,7 @@
   - Composition
   - Pipe: 🖐️ used
   - Memoize
-  - Wrapper
+  - Wrapper u
   - Functor
   - Monad
   - Monoid
@@ -108,21 +108,21 @@
   - Array: 🖐️ used
   - Structure: 🖐️ used
   - Record
-  - Enum
+  - Enum u
   - Instance
   - Object: 🖐️ used
   - Collection
   - Set: 🖐️ used
   - Hash table
-  - Linked list
+  - Linked list u
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
+  - Queue u
+  - Stack u
+  - Deque u
+  - Tree u
+  - Graph u
   - Iterator
   - Mutable state
   - Immutable state
@@ -132,61 +132,61 @@
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS h
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4 h
+  - IPv6 h
+  - NAT h
+  - URL h
   - URN
   - URI
 - Process and tools
   - Compiler
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
+  - Transpiler k
+  - Linter u
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine u
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
   - Garbage collection: 🎓 known
-  - Refactoring: 🎓 known
-  - Code review: 🎓 known
+  - Refactoring: u
+  - Code review: u
   - Exception
   - Unittesting
-  - git: 🎓 known
-  - Github: 🎓 known
+  - git: u
+  - Github: u
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers k
+  - Hard code k
+  - Soft code 
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
+  - Spaghetti 
   - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Not invented here k
+  - Dead code k
+  - Unreachable code k
+  - Duplicate code k
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops u
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux h
+  - Unix h
   - BSD
-  - MacOS
-  - Windows
+  - MacOS u
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG
