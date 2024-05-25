@@ -1,9 +1,9 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types k
   - Performance tuning
-  - Migrations
+  - Migrations k
   - Schema versioning
   - Backup and recovery
   - Database scalability
@@ -36,14 +36,14 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` u
+  - `INSERT` u
+  - `UPDATE` u
+  - `DELETE` u
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `ORDER BY` u
+  - `GROUP BY` u
   - `HAVING`
   - `EXISTS`
   - `JOIN`
@@ -52,13 +52,13 @@
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
+  - `WHERE` u
   - `LIKE`
-  - `IN`
+  - `IN` u
   - `BETWEEN`
-  - `CREATE TABLE`
+  - `CREATE TABLE` u
   - `ALTER TABLE`
-  - `DROP TABLE`
+  - `DROP TABLE` u
   - `PRIMARY KEY`
   - `FOREIGN KEY`
   - `CHECK`
@@ -70,14 +70,14 @@
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL
+  - PostgreSQL u
   - Oracle
-  - MySQL
+  - MySQL h
   - MariaDB
   - MS SQL Server
   - Redis
   - Rabbit
-  - MongoDB
+  - MongoDB h
   - Memcached
   - Riak
   - DB2
