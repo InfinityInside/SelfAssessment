@@ -1,17 +1,17 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming: 👂 heard
   - Imperative programming
-  - Structured programming
+  - Structured programming: 👂 heard
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 👂 heard
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming: 🖐️ used
   - Parallel programming
   - Reactive programming
   - Functional-reactive (FRP)
@@ -27,24 +27,24 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 👂 heard
+  - Abstract class: 🖐️ used
+  - Interface: 👂 heard
+  - Encapsulation: 🖐️ used
   - Hidden class
   - Object form
-  - Instance
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -80,7 +80,7 @@
   - Builder
   - Prototype
   - Composite
-  - Decorator
+  - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento
