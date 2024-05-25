@@ -2,13 +2,13 @@
 
 - Theory
   - Procedural programming: 👂 heard
-  - Imperative programming
+  - Imperative programming: 👂 heard
   - Structured programming: 👂 heard
-  - Non-structured programming
+  - Non-structured programming: 👂 heard
   - Functional programming: 👂 heard
   - Prototype-based programming
   - Object-oriented programming: 🖐️ used
-  - Object-based programming
+  - Object-based programming: 👂 heard
   - Generic programming
   - Concurrent computing
   - Asynchronous programming: 🖐️ used
@@ -40,7 +40,7 @@
   - Parent class: 🖐️ used
   - Polymorphism: 👂 heard
   - Abstract class: 🖐️ used
-  - Interface: 👂 heard
+  - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
   - Hidden class
   - Object form

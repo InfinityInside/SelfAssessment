@@ -4,33 +4,33 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Abstraction: 👂 heard
+  - Paradigm: 🖐️ used
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
-  - Module
-  - Library
-  - Package
+  - Module: 🖐️ used
+  - Library: 🖐️ used
+  - Package: 🖐️ used
   - Component
-  - Framework
+  - Framework: 🖐️ used
   - Platform
-  - Source code
+  - Source code: 🎓 known
   - Object code
-  - Machine code
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering
+  - Software engineering: 🖐️ used
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
-  - KISS principle
+  - KISS principle: 🎓 known
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -45,7 +45,7 @@
   - Method: 🖐️ used
   - Class: 🖐️ used
   - Prototype
-  - Event
+  - Event: 🖐️ used
   - Type: 🖐️ used
   - Flag
   - Lexical scope: 🖐️ used
@@ -98,7 +98,7 @@
   - Composition
   - Pipe: 🖐️ used
   - Memoize
-  - Wrapper
+  - Wrapper: 🖐️ used
   - Functor
   - Monad
   - Monoid
@@ -108,21 +108,21 @@
   - Array: 🖐️ used
   - Structure: 🖐️ used
   - Record
-  - Enum
+  - Enum: 🖐️ used
   - Instance
   - Object: 🖐️ used
   - Collection
   - Set: 🖐️ used
   - Hash table
-  - Linked list
+  - Linked list: 🖐️ used
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
-  - Deque
-  - Tree
-  - Graph
+  - Queue: 🖐️ used
+  - Stack: 🖐️ used
+  - Deque: 🖐️ used
+  - Tree: 🖐️ used
+  - Graph: 🖐️ used
   - Iterator
   - Mutable state
   - Immutable state
@@ -132,47 +132,47 @@
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4
-  - IPv6
-  - NAT
-  - URL
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
+  - NAT: 👂 heard
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
   - Compiler
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
+  - Transpiler: 🎓 known
+  - Linter: 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection: 🎓 known
-  - Refactoring: 🎓 known
-  - Code review: 🎓 known
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
   - Exception
   - Unittesting
-  - git: 🎓 known
-  - Github: 🎓 known
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
   - Soft code
   - Cryptic code
   - Improbability factor
@@ -180,13 +180,13 @@
   - Action at a distance
   - Spaghetti
   - Silver bullet
-  - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Not invented here: 🎓 known
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops: 🖐️ used
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux: 👂 heard
+  - Unix: 👂 heard
   - BSD
-  - MacOS
-  - Windows
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
