@@ -6,19 +6,19 @@
   - Nonblocking I/O and blocking code
   - Event loop phases
   - Event loop microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection h
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
-  - Module `node:module`
+  - Module `node:module` u
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`: 👂 heard
-  - Files `package.json`, `package-lock.json`: 👂 heard
+  - Dependencies: `npm`, `node_modules`: u
+  - Files `package.json`, `package-lock.json`: u
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments: 👂 heard
-  - Node.js CLI
+  - Command line arguments: u
+  - Node.js CLI u
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -38,7 +38,7 @@
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async)
+  - File system API (sync and async) u
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -69,7 +69,7 @@
   - IncomingMessage
   - HTTP(S): 🎓 known
   - TCP/SSL
-  - UDP
+  - UDP u
   - TLS
   - Websocket
   - SSE
@@ -79,11 +79,11 @@
   - RPC
   - Routing: 🖐️ used
   - DoS
-  - DDoS
+  - DDoS h
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS h
   - SQL injection: 👂 heard
   - noDelay
   - keep-alive
@@ -98,7 +98,7 @@
   - Writable
   - Transform
   - Back pressure
-  - Buffer
+  - Buffer k
   - Console: 🖐️ used
   - Inspector
 - Data access
