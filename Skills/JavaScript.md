@@ -1,89 +1,122 @@
-## Programming fundamental concepts
+## JavaScript
 
 - Language
-  - Object 🖐️
-  - this 🖐️
-  - arrow function 🖐️
-  - async function 🖐️
-  - call 
-  - bind
-  - apply
-  - instanceof
-  - ...spread 🖐️
-  - ...rest 🖐️
-  - typeof 🖐️
-  - destructuring 🖐️
-  - generator 
-  - iterator
-  - async generator
-  - async iterator
-  - chaining 👂
-  - optional chaining
+  - `Object` u
+  - `Function`u
+  - `Boolean` u
+  - `Number` u
+  - `BigInt` u
+  - `String` u
+  - `Symbol`
+  - `Infinity`
+  - `NaN` k
+  - `undefined` u
+  - `null` u
+  - `this` u
+  - `instanceof`
+  - `...spread` u
+  - `...rest` u
+  - `typeof` k
+  - Destructuring u
+  - Generators
+  - Iterators
+  - Async generator
+  - Async iterator
+  - Chaining
+  - Optional chaining
   - IIFE
-  - global
-  - globalThis
-  - window
-  - getters and setters 🖐️
-  - __proto__
-  - prototype
-  - equality operators 🖐️
-  - logical operators 🖐️
-  - bitwise operators
-  - ternary operator 🖐️
-  - void 🖐️
-  - yield
-  - await 🖐️
-  - template literal
-  - strict mode 🖐️
-  - delete
-  - in 🖐️
-  - super 🖐️
-  - Symbol
-  - Reflect
+  - Async IIFE
+  - `global`
+  - `globalThis`
+  - `window`
+  - Getters and setters
+  - `__proto__`
+  - `prototype`
+  - Equality operators u
+  - Logical operators u
+  - Logical Assignment u
+  - Bitwise operators
+  - Ternary operator u
+  - `void` u
+  - `yield`
+  - `await` u
+  - Template literal
+  - Strict mode u
+  - Hoisting
+  - `delete` u
+  - `in` u
+  - `super` k
+  - `eval`
+  - `static` k
+  - `Number.parseInt` k
+  - `Number.parseFloat` k
+  - Property descriptors k
+  - Sealing properties k
+  - Freezing properties
+  - Computed properties
+  - Instance class fields
+  - Static class fields u
+  - Private class fields u
+  - Private class methods u
 - Statements
-  - if 🖐️
-  - while 🖐️
-  - do..while 🖐️
-  - for 🖐️
-  - for..in 🖐️
-  - for..of 🖐️
-  - for await
-  - throw 🖐️
-  - break 🖐️
-  - continue 🖐️
-  - import 🖐️
-  - export 🖐️
-  - label
-  - try..catch 🖐️
-  - switch 🖐️
-  - class 🖐️
-  - new Error 🖐️
-  - with
+  - `if` u
+  - `while` u
+  - `do..while` u
+  - `for` u
+  - `for..in` u
+  - `for..of` u
+  - `for await` 
+  - `throw` u
+  - `break` u
+  - `continue` u
+  - `import`
+  - `export`
+  - `label`
+  - `try..catch` u
+  - `switch` u
+  - `class` u
+  - `extends`
+  - `with`
+  - `new` u
 - Functions
-  - function declaration 🖐️
-  - function expression  🖐️
-  - return 🖐️
-  - default parameters 🖐️
-  - functional object
+  - Arrow function u
+  - Async function u
+  - Function declaration u
+  - Function expression u
+  - Default parameters u
+  - Functional object u
+  - `Function.prototype.call`
+  - `Function.prototype.bind`
+  - `Function.prototype.apply`
+  - `return` u
 - Data structures
-  - Array 🖐️
-  - mixin
-  - extend 🖐️
-  - typed arrays 👂
-  - Map 🎓
-  - Set 🎓
-  - undefined 🖐️
-  - null 🖐️
-  - Proxy
-  - weak collections 👂
-  - timers
-  - EventEmitter
-  - RegExp
-  - Date 🖐️
-  - BigInt 👂
+  - `Array` u
+  - `Map` u
+  - `Set` u
+  - `WeakMap` k
+  - `WeakSet` k
+  - Typed arrays k
+  - Mixins
+  - `Object.assign`
+- Standard classes and namespaces
+  - `Proxy`
+  - `RegExp`
+  - `Date` u
+  - `Math` u
+  - `Reflect`
+  - `Error` u
+  - `Atomics`
+  - `JSON` k
+  - `WeakRef`
+  - `FinalizationRegistry`
+  - `Intl`
+  - `Promise`
+  - `console` u
+  - Timers u
 - Infrastructure
   - V8
   - Node.js  🖐️
   - npm 🖐️
   - prettier 🖐️
   - MDN
+  - TC39
