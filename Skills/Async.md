@@ -79,7 +79,7 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all k
+  - Promise.all: 🎓 known
   - Promise.allSettled
   - Promise.race
   - Promise.any

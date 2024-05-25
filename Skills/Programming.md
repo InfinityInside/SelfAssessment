@@ -4,33 +4,33 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm u
-  - Syntax u
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
   - Semantics
-  - Abstraction h
-  - Paradigm u
-  - Programm u
-  - Programming paradigm u
-  - Programming language u
+  - Abstraction: 👂 heard
+  - Paradigm: 🖐️ used
+  - Programm: 🖐️ used
+  - Programming paradigm: 🖐️ used
+  - Programming language: 🖐️ used
   - Contract
-  - Module u
-  - Library u
-  - Package u
+  - Module: 🖐️ used
+  - Library: 🖐️ used
+  - Package: 🖐️ used
   - Component
-  - Framework u
+  - Framework: 🖐️ used
   - Platform
-  - Source code k
+  - Source code: 🎓 known
   - Object code
-  - Machine code h
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering u
+  - Software engineering: 🖐️ used
   - Decomposition
   - Control flow
   - Data flow
   - Code reuse
   - Defensive programming
   - Don't repeat yourself (DRY)
-  - KISS principle k
+  - KISS principle: 🎓 known
 - Syntax and concepts
   - Value: 🖐️ used
   - Identifier: 🖐️ used
@@ -45,7 +45,7 @@
   - Method: 🖐️ used
   - Class: 🖐️ used
   - Prototype
-  - Event u
+  - Event: 🖐️ used
   - Type: 🖐️ used
   - Flag
   - Lexical scope: 🖐️ used
@@ -98,7 +98,7 @@
   - Composition
   - Pipe: 🖐️ used
   - Memoize
-  - Wrapper u
+  - Wrapper: 🖐️ used
   - Functor
   - Monad
   - Monoid
@@ -108,21 +108,21 @@
   - Array: 🖐️ used
   - Structure: 🖐️ used
   - Record
-  - Enum u
+  - Enum: 🖐️ used
   - Instance
   - Object: 🖐️ used
   - Collection
   - Set: 🖐️ used
   - Hash table
-  - Linked list u
+  - Linked list: 🖐️ used
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue u
-  - Stack u
-  - Deque u
-  - Tree u
-  - Graph u
+  - Queue: 🖐️ used
+  - Stack: 🖐️ used
+  - Deque: 🖐️ used
+  - Tree: 🖐️ used
+  - Graph: 🖐️ used
   - Iterator
   - Mutable state
   - Immutable state
@@ -132,61 +132,61 @@
   - JSON5
   - YAML
 - Networking
-  - DNS h
+  - DNS: 👂 heard
   - CDN
   - CORS
-  - IPv4 h
-  - IPv6 h
-  - NAT h
-  - URL h
+  - IPv4: 👂 heard
+  - IPv6: 👂 heard
+  - NAT: 👂 heard
+  - URL: 👂 heard
   - URN
   - URI
 - Process and tools
   - Compiler
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler k
-  - Linter u
+  - Transpiler: 🎓 known
+  - Linter: 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
   - Dynamic linking
   - Static linking
   - Runtime
-  - Virtual machine u
+  - Virtual machine: 🖐️ used
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger u
+  - Debugger: 🖐️ used
   - Tracing
   - Garbage collection: 🎓 known
-  - Refactoring: u
-  - Code review: u
+  - Refactoring: 🖐️ used
+  - Code review: 🖐️ used
   - Exception
   - Unittesting
-  - git: u
-  - Github: u
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers k
-  - Hard code k
-  - Soft code 
+  - Magic numbers: 🎓 known
+  - Hard code: 🎓 known
+  - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti 
+  - Spaghetti
   - Silver bullet
-  - Not invented here k
-  - Dead code k
-  - Unreachable code k
-  - Duplicate code k
+  - Not invented here: 🎓 known
+  - Dead code: 🎓 known
+  - Unreachable code: 🎓 known
+  - Duplicate code: 🎓 known
   - Premature optimization
   - Micro-optimization
-  - Nested loops u
+  - Nested loops: 🖐️ used
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux h
-  - Unix h
+  - Linux: 👂 heard
+  - Unix: 👂 heard
   - BSD
-  - MacOS u
-  - Windows u
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8 u
+  - UTF-8: 🖐️ used
   - W3C
   - ODMG
