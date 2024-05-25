@@ -2,21 +2,21 @@
 
 - Language
   - `Object`: 🖐️ used
-  - `Function`u
+  - `Function` u
   - `Boolean`: 🖐️ used
   - `Number`: 🖐️ used
   - `BigInt`: 🖐️ used
   - `String`: 🖐️ used
-  - `Symbol`
-  - `Infinity`
-  - `NaN`: 🎓 known
+  - `Symbol` h
+  - `Infinity` u
+  - `NaN`: u
   - `undefined`: 🖐️ used
   - `null`: 🖐️ used
   - `this`: 🖐️ used
-  - `instanceof`
+  - `instanceof` k
   - `...spread`: 🖐️ used
   - `...rest`: 🖐️ used
-  - `typeof`: 🎓 known
+  - `typeof`: u
   - Destructuring: 🖐️ used
   - Generators
   - Iterators
@@ -26,10 +26,10 @@
   - Optional chaining
   - IIFE
   - Async IIFE
-  - `global`
+  - `global` u
   - `globalThis`
-  - `window`
-  - Getters and setters
+  - `window` u
+  - Getters and setters u
   - `__proto__`
   - `prototype`
   - Equality operators: 🖐️ used
@@ -48,7 +48,7 @@
   - `super`: 🎓 known
   - `eval`
   - `static`: 🎓 known
-  - `Number.parseInt`: 🎓 known
+  - `Number.parseInt`: u
   - `Number.parseFloat`: 🎓 known
   - Property descriptors: 🎓 known
   - Sealing properties: 🎓 known
@@ -106,11 +106,11 @@
   - `Reflect`
   - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`: 🎓 known
+  - `JSON`: u
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise`
+  - `Promise` k
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
